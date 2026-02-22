@@ -7,7 +7,3 @@ O objetivo é documentar minha evolução, praticar conceitos e explorar diferen
  
 - Projetos de estudo
 - Testes de funcionalidades
- 
-
-## Objetivo
-Servir como registro do meu aprendizado contínuo e como base para futuras referências e melhorias.
