@@ -1,3 +1,13 @@
--- Sobre
-Repositório dedicado aos meus estudos, 
-com pequenos testes e projetos desenvolvidos durante meu processo de aprendizagem.
+# Sobre 📘
+
+Este repositório é dedicado aos meus estudos, reunindo pequenos testes e projetos desenvolvidos ao longo do meu processo de aprendizagem.  
+O objetivo é documentar minha evolução, praticar conceitos e explorar diferentes tecnologias e ferramentas.
+
+## Conteúdo
+ 
+- Projetos de estudo
+- Testes de funcionalidades
+ 
+
+## Objetivo
+Servir como registro do meu aprendizado contínuo e como base para futuras referências e melhorias.
